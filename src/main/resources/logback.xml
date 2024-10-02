@@ -1,0 +1,6 @@
+<configuration>
+    <root level="ERROR">
+        <appender-ref ref="stdout" />
+        <appender-ref ref="dailyFileAsync" />
+    </root>
+</configuration>
